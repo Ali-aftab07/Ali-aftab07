@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-aftab07
 - 👀 I’m interested in Web development, data science and mobile app development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web api's
+- 💞️ I’m looking to collaborate on web 
 - 📫 How to reach me mail at ali.aftabbhatti03@gamil.com
 
 <!---
